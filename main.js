@@ -1,8 +1,3 @@
-import GameLoop from "../myLibrary/GameLoop.js";
-import Graphics from "../myLibrary/Graphics.js";
-import Vector from "../myLibrary/Vector.js";
-import ColorGenerator from "../myLibrary/ColorGenerator.js";
-
 //Setup
 const canvas = document.querySelector("canvas");
 const ctx = canvas.getContext("2d");
