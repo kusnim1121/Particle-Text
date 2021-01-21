@@ -1,4 +1,4 @@
-export default class Graphics {
+ class Graphics {
 	constructor(ctx) {
 		/**@type {CanvasRenderingContext2D} */
 		this.g = ctx;
