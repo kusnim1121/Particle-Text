@@ -1,4 +1,4 @@
-export default class GameLoop {
+ class GameLoop {
 	constructor() {
 		this.FPS = 60;
 		this.step = 1 / this.FPS;
