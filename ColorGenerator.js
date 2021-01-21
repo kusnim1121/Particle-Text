@@ -1,4 +1,4 @@
-export default class ColorGenerator {
+class ColorGenerator {
 	constructor() {
 		/**
 		 * White -> Gray -> Black
